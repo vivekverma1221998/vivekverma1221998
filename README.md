@@ -10,20 +10,19 @@ I’m a passionate backend developer with over 4 years of experience in designin
 
 ## 📊 LeetCode Profile & ✍️ Dev Quote
 
-<table>
-  <tr>
-    <td>
-      <h3>💻 LeetCode Stats</h3>
-      <a href="https://leetcode.com/vivek_verma_1202/">
-        <img src="https://leetcard.jacoblin.cool/vivek_verma_1202?theme=dark" alt="LeetCode Stats">
-      </a>
-    </td>
-    <td>
-      <h3>✍️ Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote">
-    </td>
-  </tr>
-</table>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <table style="width:100%; table-layout:auto;">
+    <tr>
+      <td align="center" valign="top">
+        <h3>💻 LeetCode Stats</h3>
+        <a href="https://leetcode.com/vivek_verma_1202/">
+          <img src="https://leetcard.jacoblin.cool/vivek_verma_1202?theme=dark" alt="LeetCode Stats">
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <h3>✍️ Random Dev Quote</h3>
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote">
+      </td>
+    </tr>
+  </table>
+</div>
